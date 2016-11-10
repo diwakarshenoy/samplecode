@@ -1,0 +1,7 @@
+<project name="demo" basedir="." default="demo">
+
+   <target name="demo">
+      <echo message="Hello, world"/>
+   </target>
+
+</project>
